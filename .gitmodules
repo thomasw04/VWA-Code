@@ -1,0 +1,3 @@
+[submodule "GrizzlyBear-Engine"]
+	path = GrizzlyBear-Engine
+	url = https://github.com/thomasw04/GrizzlyBear-Engine-Public.git
